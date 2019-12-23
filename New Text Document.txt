@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Thought I am in master branch
 =======
 I thought in Master but made changes in JIRA and save and commited.
@@ -7,3 +8,7 @@ I thought in Master but made changes in JIRA and save and commited.
 =======
 I thought in Master but made changes in JIRA and save and commited.
 >>>>>>> 5d91e1f... Commited changes in JIRA branch
+=======
+I thought in Master but made changes in JIRA and save and commited.
+I am by mistaken in JIRA branch did changes to this file.
+>>>>>>> e63ab2b... Committed by mistakenly in JIRA branch
